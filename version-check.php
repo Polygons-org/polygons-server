@@ -1,6 +1,6 @@
 <?php
 $LatestVer = "ALPHA";
-$ClientVer = $_GET['version'];
+$ClientVer = $_GET['ClientVersion'];
 
 $AllowedVersions = array(
     "ALPHA",
