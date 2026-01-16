@@ -7,7 +7,7 @@ $AllowedVersions = array(
 );
 
 $ClientOnlyVersions = array(
-    "this is empty for now",
+    "empty",
 );
 
 # Possible access levels are: all, client, none
